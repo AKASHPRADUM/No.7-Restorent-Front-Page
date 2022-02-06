@@ -109,7 +109,7 @@ body{
     align-items: start;
     justify-content: center;
     /* grid-area: hero / hero / hero / hero; */
-    background: url(../img/taco.jpg) right bottom / cover white;
+    background: url(img/taco.jpg) right bottom / cover white;
     background-position: right bottom;
     padding: 50px;
 }
